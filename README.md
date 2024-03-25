@@ -16,8 +16,6 @@
   <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/>
   <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
-  <img src ="https://img.icons8.com/fluent/48/4a90e2/php.png" />
-  <img src ="https://img.icons8.com/fluent/48/4a90e2/laravel.png" />
 </p>
 <br>
 <p float='center'>
