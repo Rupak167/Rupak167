@@ -22,4 +22,5 @@
 <br>
 <p float='center'>
 <img src = "https://github-readme-stats.vercel.app/api?username=rupak167&show_icons=true&theme=light" width = 392>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupak167&layout=compact&theme=light" width = 392> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupak167&layout=compact&theme=light"> 
+</p>
